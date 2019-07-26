@@ -1,4 +1,13 @@
 # hello-word
-day1
-First use, take care 
-hahahahahaha
+这是一个小程序项目，
+
+
+1，新建 
+
+
+2，添加
+
+
+
+3，上传
+
