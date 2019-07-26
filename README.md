@@ -3,8 +3,7 @@
 
 
 1，新建 
-![image] （https://github.com/zhao-max/hello-word/blob/master/6.jpg
-）
+![Image]（https://github.com/zhao-max/hello-word/blob/master/6.jpg）
 2，添加
 
 
